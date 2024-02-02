@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:news_app_ui_setup/models/categoryboxmodel.dart';
 import 'package:news_app_ui_setup/parts/category_box.dart';
-import 'package:news_app_ui_setup/services/getdata.dart';
 
 class CategoryScroller extends StatelessWidget {
   CategoryScroller({Key? key}) : super(key: key);
